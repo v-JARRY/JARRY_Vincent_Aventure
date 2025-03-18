@@ -25,10 +25,11 @@ var l14CB4CB5_0;l14CB4CB5_0 = keyboard_check(vk_left);if (l14CB4CB5_0){	/// 
 	/// @DnDParent : 14CB4CB5
 	/// @DnDArgument : "expr" "true"
 	/// @DnDArgument : "expr_1" "-1"
+	/// @DnDArgument : "expr_relative_1" "1"
 	/// @DnDArgument : "var" "IsKeypressed"
 	/// @DnDArgument : "var_1" "dir_x"
 	IsKeypressed = true;
-	dir_x = -1;}
+	dir_x += -1;}
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
@@ -40,27 +41,29 @@ var l0CBE7341_0;l0CBE7341_0 = keyboard_check(vk_right);if (l0CBE7341_0){	///
 	/// @DnDInput : 2
 	/// @DnDParent : 0CBE7341
 	/// @DnDArgument : "expr" "true"
-	/// @DnDArgument : "expr_1" "-1"
+	/// @DnDArgument : "expr_1" "+1"
+	/// @DnDArgument : "expr_relative_1" "1"
 	/// @DnDArgument : "var" "IsKeypressed"
 	/// @DnDArgument : "var_1" "dir_x"
 	IsKeypressed = true;
-	dir_x = -1;}
+	dir_x += +1;}
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
 /// @DnDHash : 28C6D2BE
-/// @DnDArgument : "key" "vk_right"
-var l28C6D2BE_0;l28C6D2BE_0 = keyboard_check(vk_right);if (l28C6D2BE_0){	/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDArgument : "key" "vk_up"
+var l28C6D2BE_0;l28C6D2BE_0 = keyboard_check(vk_up);if (l28C6D2BE_0){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 05004432
 	/// @DnDInput : 2
 	/// @DnDParent : 28C6D2BE
 	/// @DnDArgument : "expr" "true"
-	/// @DnDArgument : "expr_1" "1"
+	/// @DnDArgument : "expr_1" "-1"
+	/// @DnDArgument : "expr_relative_1" "1"
 	/// @DnDArgument : "var" "IsKeypressed"
-	/// @DnDArgument : "var_1" "dir_x"
+	/// @DnDArgument : "var_1" "dir_y"
 	IsKeypressed = true;
-	dir_x = 1;}
+	dir_y += -1;}
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
@@ -73,10 +76,11 @@ var l716B98DE_0;l716B98DE_0 = keyboard_check(vk_down);if (l716B98DE_0){	/// 
 	/// @DnDParent : 716B98DE
 	/// @DnDArgument : "expr" "true"
 	/// @DnDArgument : "expr_1" "1"
+	/// @DnDArgument : "expr_relative_1" "1"
 	/// @DnDArgument : "var" "IsKeypressed"
-	/// @DnDArgument : "var_1" "dire_x"
+	/// @DnDArgument : "var_1" "dir_y"
 	IsKeypressed = true;
-	dire_x = 1;}
+	dir_y += 1;}
 
 /// @DnDAction : YoYo Games.Movement.Set_Direction_Free
 /// @DnDVersion : 1
