@@ -44,8 +44,9 @@
     {"id":{"name":"O_MiniMapObjectInGameSprite","path":"objects/O_MiniMapObjectInGameSprite/O_MiniMapObjectInGameSprite.yy",},},
     {"id":{"name":"O_spic","path":"objects/O_spic/O_spic.yy",},},
     {"id":{"name":"O_vaisseau","path":"objects/O_vaisseau/O_vaisseau.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Test_Room","path":"rooms/Test_Room/Test_Room.yy",},},
     {"id":{"name":"Reduce_life","path":"scripts/Reduce_life/Reduce_life.yy",},},
+    {"id":{"name":"Scr_CreateMiniMapObjectSprite","path":"scripts/Scr_CreateMiniMapObjectSprite/Scr_CreateMiniMapObjectSprite.yy",},},
     {"id":{"name":"Scr_CreatMinimapObject","path":"scripts/Scr_CreatMinimapObject/Scr_CreatMinimapObject.yy",},},
     {"id":{"name":"S_collision","path":"sprites/S_collision/S_collision.yy",},},
     {"id":{"name":"S_life","path":"sprites/S_life/S_life.yy",},},
@@ -57,7 +58,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Test_Room","path":"rooms/Test_Room/Test_Room.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

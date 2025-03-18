@@ -2,4 +2,8 @@
 /// @DnDVersion : 1.1
 /// @DnDHash : 5140074E
 /// @DnDInput : 2
-script_execute(noone);
+/// @DnDArgument : "script" "Scr_CreateMiniMapObjectSprite"
+/// @DnDArgument : "arg" "self"
+/// @DnDArgument : "arg_1" "S_vaisseau"
+/// @DnDSaveInfo : "script" "Scr_CreateMiniMapObjectSprite"
+script_execute(Scr_CreateMiniMapObjectSprite, self, S_vaisseau);
