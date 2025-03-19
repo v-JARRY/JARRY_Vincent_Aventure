@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"O_Coffe",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_vaisseau","path":"objects/O_vaisseau/O_vaisseau.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"O_Coffe",
   "overriddenProperties":[],
