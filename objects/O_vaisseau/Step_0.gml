@@ -17,8 +17,8 @@ dir_y = 0;
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
 /// @DnDHash : 14CB4CB5
-/// @DnDArgument : "key" "vk_left"
-var l14CB4CB5_0;l14CB4CB5_0 = keyboard_check(vk_left);if (l14CB4CB5_0){	/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDArgument : "key" "ord("Q")"
+var l14CB4CB5_0;l14CB4CB5_0 = keyboard_check(ord("Q"));if (l14CB4CB5_0){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 00BD615E
 	/// @DnDInput : 2
@@ -34,8 +34,8 @@ var l14CB4CB5_0;l14CB4CB5_0 = keyboard_check(vk_left);if (l14CB4CB5_0){	/// 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
 /// @DnDHash : 0CBE7341
-/// @DnDArgument : "key" "vk_right"
-var l0CBE7341_0;l0CBE7341_0 = keyboard_check(vk_right);if (l0CBE7341_0){	/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDArgument : "key" "ord("D")"
+var l0CBE7341_0;l0CBE7341_0 = keyboard_check(ord("D"));if (l0CBE7341_0){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 50DE6DC4
 	/// @DnDInput : 2
@@ -51,8 +51,8 @@ var l0CBE7341_0;l0CBE7341_0 = keyboard_check(vk_right);if (l0CBE7341_0){	///
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
 /// @DnDHash : 28C6D2BE
-/// @DnDArgument : "key" "vk_up"
-var l28C6D2BE_0;l28C6D2BE_0 = keyboard_check(vk_up);if (l28C6D2BE_0){	/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDArgument : "key" "ord("Z")"
+var l28C6D2BE_0;l28C6D2BE_0 = keyboard_check(ord("Z"));if (l28C6D2BE_0){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 05004432
 	/// @DnDInput : 2
@@ -68,8 +68,8 @@ var l28C6D2BE_0;l28C6D2BE_0 = keyboard_check(vk_up);if (l28C6D2BE_0){	/// @D
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
 /// @DnDHash : 716B98DE
-/// @DnDArgument : "key" "vk_down"
-var l716B98DE_0;l716B98DE_0 = keyboard_check(vk_down);if (l716B98DE_0){	/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDArgument : "key" "ord("S")"
+var l716B98DE_0;l716B98DE_0 = keyboard_check(ord("S"));if (l716B98DE_0){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 4E4AD30B
 	/// @DnDInput : 2
