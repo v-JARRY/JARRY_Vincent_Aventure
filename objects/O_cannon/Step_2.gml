@@ -13,11 +13,4 @@ var l30DFBBF5_0 = false;l30DFBBF5_0 = instance_exists(O_vaisseau);if(l30DFBBF5
 	/// @DnDArgument : "var" "x"
 	/// @DnDArgument : "var_1" "y"
 	x = O_vaisseau.x;
-	y = O_vaisseau.y;
-
-	/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
-	/// @DnDVersion : 1
-	/// @DnDHash : 0867F2B7
-	/// @DnDParent : 30DFBBF5
-	/// @DnDArgument : "angle" "O_vaisseau.image_xscale.image_yscale"
-	image_angle = O_vaisseau.image_xscale.image_yscale;}
+	y = O_vaisseau.y;}

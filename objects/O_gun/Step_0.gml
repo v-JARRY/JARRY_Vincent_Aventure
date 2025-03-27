@@ -1,0 +1,11 @@
+/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
+/// @DnDVersion : 1
+/// @DnDHash : 2E59F608
+/// @DnDArgument : "key" "ord("E")"
+var l2E59F608_0;l2E59F608_0 = keyboard_check_pressed(ord("E"));if (l2E59F608_0){	/// @DnDAction : YoYo Games.Instances.Create_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 366E9791
+	/// @DnDParent : 2E59F608
+	/// @DnDArgument : "objectid" "O_ball"
+	/// @DnDSaveInfo : "objectid" "O_ball"
+	instance_create_layer(0, 0, "Instances", O_ball);}
