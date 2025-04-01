@@ -57,6 +57,7 @@
     {"id":{"name":"O_UI_lifebar","path":"objects/O_UI_lifebar/O_UI_lifebar.yy",},},
     {"id":{"name":"O_vaisseau","path":"objects/O_vaisseau/O_vaisseau.yy",},},
     {"id":{"name":"Test_Room","path":"rooms/Test_Room/Test_Room.yy",},},
+    {"id":{"name":"ui","path":"rooms/ui/ui.yy",},},
     {"id":{"name":"Reduce_life","path":"scripts/Reduce_life/Reduce_life.yy",},},
     {"id":{"name":"Scr_CreateMiniMapObjectSprite","path":"scripts/Scr_CreateMiniMapObjectSprite/Scr_CreateMiniMapObjectSprite.yy",},},
     {"id":{"name":"Scr_CreatMinimapObject","path":"scripts/Scr_CreatMinimapObject/Scr_CreatMinimapObject.yy",},},
@@ -81,6 +82,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Test_Room","path":"rooms/Test_Room/Test_Room.yy",},},
+    {"roomId":{"name":"ui","path":"rooms/ui/ui.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
