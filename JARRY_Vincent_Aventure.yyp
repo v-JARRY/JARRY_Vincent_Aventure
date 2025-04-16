@@ -83,6 +83,7 @@
     {"id":{"name":"S_bar","path":"sprites/S_bar/S_bar.yy",},},
     {"id":{"name":"S_barman","path":"sprites/S_barman/S_barman.yy",},},
     {"id":{"name":"S_bomba","path":"sprites/S_bomba/S_bomba.yy",},},
+    {"id":{"name":"S_boss","path":"sprites/S_boss/S_boss.yy",},},
     {"id":{"name":"S_boutique_louche","path":"sprites/S_boutique_louche/S_boutique_louche.yy",},},
     {"id":{"name":"S_bureau","path":"sprites/S_bureau/S_bureau.yy",},},
     {"id":{"name":"S_cafetiere","path":"sprites/S_cafetiere/S_cafetiere.yy",},},
