@@ -42,8 +42,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_vaisseau",
-    "path":"sprites/S_vaisseau/S_vaisseau.yy",
+    "name":"S_detective",
+    "path":"sprites/S_detective/S_detective.yy",
   },
   "spriteMaskId":null,
   "visible":true,

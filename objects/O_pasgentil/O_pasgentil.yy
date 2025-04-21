@@ -10,8 +10,8 @@
   "name":"O_pasgentil",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"o_mob",
+    "path":"folders/Objects/o_mob.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"S_pasgentil",
-    "path":"sprites/S_pasgentil/S_pasgentil.yy",
+    "name":"S_voyous",
+    "path":"sprites/S_voyous/S_voyous.yy",
   },
   "spriteMaskId":null,
   "visible":true,

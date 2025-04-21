@@ -8,8 +8,8 @@
   "name":"O_mason",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"décord_scène 2",
+    "path":"folders/Objects/décord_scène 2.yy",
   },
   "parentObjectId":null,
   "persistent":false,

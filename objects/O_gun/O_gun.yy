@@ -10,8 +10,8 @@
   "name":"O_gun",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Items",
+    "path":"folders/Objects/Items.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_gun",
-    "path":"sprites/S_gun/S_gun.yy",
+    "name":"S_pistolet",
+    "path":"sprites/S_pistolet/S_pistolet.yy",
   },
   "spriteMaskId":null,
   "visible":true,
