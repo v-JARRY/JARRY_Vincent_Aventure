@@ -1,17 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"O_MiniMapObjectInGame",
+  "%Name":"O_interactable",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":75,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_MiniMapObjectInGame",
+  "name":"O_interactable",
   "overriddenProperties":[],
   "parent":{
-    "name":"ui_map",
-    "path":"folders/Objects/ui_map.yy",
+    "name":"ui_persoPrincipal",
+    "path":"folders/Objects/ui_persoPrincipal.yy",
   },
   "parentObjectId":null,
   "persistent":false,
