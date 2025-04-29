@@ -2,10 +2,10 @@
   "$GMSprite":"",
   "%Name":"S_chanteur",
   "bboxMode":0,
-  "bbox_bottom":123,
-  "bbox_left":0,
-  "bbox_right":123,
-  "bbox_top":0,
+  "bbox_bottom":93,
+  "bbox_left":45,
+  "bbox_right":79,
+  "bbox_top":30,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -13,8 +13,6 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"84dd9c10-49a9-4401-b8e2-b66d6c8de628","name":"84dd9c10-49a9-4401-b8e2-b66d6c8de628","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"381e29b5-3114-400e-86fe-f38e35f3b477","name":"381e29b5-3114-400e-86fe-f38e35f3b477","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"add13c0d-a1ff-4ec2-8369-c57075e1e633","name":"add13c0d-a1ff-4ec2-8369-c57075e1e633","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -51,7 +49,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":3.0,
+    "length":1.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -73,12 +71,6 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"84dd9c10-49a9-4401-b8e2-b66d6c8de628","path":"sprites/S_chanteur/S_chanteur.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"ee64ffef-ded1-48bc-b3c2-d97a221ec3ba","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"381e29b5-3114-400e-86fe-f38e35f3b477","path":"sprites/S_chanteur/S_chanteur.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"7187b575-b0c7-4911-b758-8ca2120e64f9","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"add13c0d-a1ff-4ec2-8369-c57075e1e633","path":"sprites/S_chanteur/S_chanteur.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"30175523-9162-4e60-9e89-97ca4de6c695","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
