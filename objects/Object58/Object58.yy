@@ -6,8 +6,8 @@
   "name":"Object58",
   "overriddenProperties":[],
   "parent":{
-    "name":"décord_scene3",
-    "path":"folders/Objects/décord_scene3.yy",
+    "name":"donjon",
+    "path":"folders/Objects/donjon.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_baricade",
-    "path":"sprites/S_baricade/S_baricade.yy",
+    "name":"Sprite73",
+    "path":"sprites/Sprite73/Sprite73.yy",
   },
   "spriteMaskId":null,
   "visible":true,

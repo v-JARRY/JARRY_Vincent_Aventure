@@ -6,8 +6,8 @@
   "name":"Object57",
   "overriddenProperties":[],
   "parent":{
-    "name":"décord_scene3",
-    "path":"folders/Objects/décord_scene3.yy",
+    "name":"donjon",
+    "path":"folders/Objects/donjon.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_immeuble_louche",
-    "path":"sprites/S_immeuble_louche/S_immeuble_louche.yy",
+    "name":"Sprite72",
+    "path":"sprites/Sprite72/Sprite72.yy",
   },
   "spriteMaskId":null,
   "visible":true,
