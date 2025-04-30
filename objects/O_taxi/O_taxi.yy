@@ -9,7 +9,10 @@
     "name":"décord_generaux",
     "path":"folders/Objects/décord_generaux.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_interaction",
+    "path":"objects/O_interaction/O_interaction.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

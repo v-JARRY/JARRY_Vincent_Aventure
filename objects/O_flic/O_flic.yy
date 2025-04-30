@@ -9,7 +9,10 @@
     "name":"pnj",
     "path":"folders/Objects/pnj.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_interaction",
+    "path":"objects/O_interaction/O_interaction.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

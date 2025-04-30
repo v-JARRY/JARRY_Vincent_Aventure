@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Scr_donjon_etage1",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"Scr_donjon_etage1",
+  "parent":{
+    "name":"bouton_scripts",
+    "path":"folders/Scripts/bouton_scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
