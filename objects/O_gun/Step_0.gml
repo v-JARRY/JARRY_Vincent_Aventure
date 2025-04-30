@@ -6,6 +6,8 @@ var l2E59F608_0;l2E59F608_0 = keyboard_check_pressed(ord("E"));if (l2E59F608_0
 	/// @DnDVersion : 1
 	/// @DnDHash : 366E9791
 	/// @DnDParent : 2E59F608
+	/// @DnDArgument : "xpos_relative" "1"
+	/// @DnDArgument : "ypos_relative" "1"
 	/// @DnDArgument : "objectid" "O_ball"
 	/// @DnDSaveInfo : "objectid" "O_ball"
-	instance_create_layer(0, 0, "Instances", O_ball);}
+	instance_create_layer(x + 0, y + 0, "Instances", O_ball);}
