@@ -241,12 +241,12 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"quartier_dangereux","path":"rooms/quartier_dangereux/quartier_dangereux.yy",},},
     {"roomId":{"name":"rue_commersante","path":"rooms/rue_commersante/rue_commersante.yy",},},
     {"roomId":{"name":"ui","path":"rooms/ui/ui.yy",},},
     {"roomId":{"name":"Test_Room","path":"rooms/Test_Room/Test_Room.yy",},},
     {"roomId":{"name":"coffe","path":"rooms/coffe/coffe.yy",},},
     {"roomId":{"name":"supermarcher","path":"rooms/supermarcher/supermarcher.yy",},},
-    {"roomId":{"name":"quartier_dangereux","path":"rooms/quartier_dangereux/quartier_dangereux.yy",},},
     {"roomId":{"name":"quartier_cool","path":"rooms/quartier_cool/quartier_cool.yy",},},
     {"roomId":{"name":"ville","path":"rooms/ville/ville.yy",},},
     {"roomId":{"name":"donjon_etage2","path":"rooms/donjon_etage2/donjon_etage2.yy",},},
