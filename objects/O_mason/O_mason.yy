@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"O_mason",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_vaisseau","path":"objects/O_vaisseau/O_vaisseau.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"O_mason",
   "overriddenProperties":[],
@@ -28,7 +26,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
     "name":"S_mason",
     "path":"sprites/S_mason/S_mason.yy",
