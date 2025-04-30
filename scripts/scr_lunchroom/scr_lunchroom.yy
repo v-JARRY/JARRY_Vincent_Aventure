@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_lunchroom",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"scr_lunchroom",
+  "parent":{
+    "name":"bouton_scripts",
+    "path":"folders/Scripts/bouton_scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

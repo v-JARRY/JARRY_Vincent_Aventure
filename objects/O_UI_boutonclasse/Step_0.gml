@@ -14,10 +14,9 @@ var l49E53B5F_0 = collision_point(mouse_x, mouse_y, self, true, 0);if((l49E53B5
 /// @DnDAction : YoYo Games.Common.Else
 /// @DnDVersion : 1
 /// @DnDHash : 4FF0492B
-else{}
-
-/// @DnDAction : YoYo Games.Instances.Call_User_Event
-/// @DnDVersion : 1
-/// @DnDHash : 785DE2E5
-/// @DnDArgument : "event" "1"
-event_user(1);
+else{	/// @DnDAction : YoYo Games.Instances.Call_User_Event
+	/// @DnDVersion : 1
+	/// @DnDHash : 785DE2E5
+	/// @DnDParent : 4FF0492B
+	/// @DnDArgument : "event" "1"
+	event_user(1);}

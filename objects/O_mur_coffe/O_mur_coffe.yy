@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"coffe",
-    "path":"folders/Objects/coffe.yy",
+    "path":"folders/Objects/charachter/coffe.yy",
   },
   "parentObjectId":null,
   "persistent":false,

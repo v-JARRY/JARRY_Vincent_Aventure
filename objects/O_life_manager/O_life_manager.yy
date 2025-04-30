@@ -8,8 +8,8 @@
   "name":"O_life_manager",
   "overriddenProperties":[],
   "parent":{
-    "name":"manager",
-    "path":"folders/Objects/manager.yy",
+    "name":"group1",
+    "path":"folders/Objects/manager/group1.yy",
   },
   "parentObjectId":null,
   "persistent":false,

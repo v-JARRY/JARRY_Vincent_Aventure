@@ -32,7 +32,7 @@
   "physicsStartAwake":true,
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"bouton_texte","filters":[],"listItems":[],"multiselect":false,"name":"bouton_texte","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"bouton_texte","varType":2,},
-    {"$GMObjectProperty":"v1","%Name":"bouton_text_color","filters":[],"listItems":[],"multiselect":false,"name":"bouton_text_color","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"$FF000000","varType":7,},
+    {"$GMObjectProperty":"v1","%Name":"button_text_color","filters":[],"listItems":[],"multiselect":false,"name":"button_text_color","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"$FF000000","varType":7,},
     {"$GMObjectProperty":"v1","%Name":"button_selection_color","filters":[],"listItems":[],"multiselect":false,"name":"button_selection_color","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"$FF3582B2","varType":7,},
     {"$GMObjectProperty":"v1","%Name":"script_to_execute","filters":[],"listItems":[],"multiselect":false,"name":"script_to_execute","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
   ],

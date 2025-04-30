@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Scr_sortie",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"Scr_sortie",
+  "parent":{
+    "name":"bouton_scripts",
+    "path":"folders/Scripts/bouton_scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

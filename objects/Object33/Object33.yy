@@ -6,8 +6,8 @@
   "name":"Object33",
   "overriddenProperties":[],
   "parent":{
-    "name":"décord_scène1",
-    "path":"folders/Objects/décord_scène1.yy",
+    "name":"décord_generaux",
+    "path":"folders/Objects/décord_generaux.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"décord_scène 2",
-    "path":"folders/Objects/décord_scène 2.yy",
+    "path":"folders/Objects/décord_generaux/décord_scène 2.yy",
   },
   "parentObjectId":null,
   "persistent":false,
