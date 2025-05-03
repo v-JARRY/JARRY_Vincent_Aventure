@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"O_dalek",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"O_laser",
+  "eventList":[],
   "managed":true,
-  "name":"O_dalek",
+  "name":"O_laser",
   "overriddenProperties":[],
   "parent":{
-    "name":"o_mob",
-    "path":"folders/Objects/o_mob.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_dalek",
-    "path":"sprites/S_dalek/S_dalek.yy",
+    "name":"S_laser",
+    "path":"sprites/S_laser/S_laser.yy",
   },
   "spriteMaskId":null,
   "visible":true,
