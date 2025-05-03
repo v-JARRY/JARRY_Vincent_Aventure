@@ -197,6 +197,7 @@
     {"id":{"name":"S_chaise","path":"sprites/S_chaise/S_chaise.yy",},},
     {"id":{"name":"S_chanteur","path":"sprites/S_chanteur/S_chanteur.yy",},},
     {"id":{"name":"S_chausser","path":"sprites/S_chausser/S_chausser.yy",},},
+    {"id":{"name":"S_chemin","path":"sprites/S_chemin/S_chemin.yy",},},
     {"id":{"name":"S_Coffe","path":"sprites/S_Coffe/S_Coffe.yy",},},
     {"id":{"name":"S_collision","path":"sprites/S_collision/S_collision.yy",},},
     {"id":{"name":"S_dalek","path":"sprites/S_dalek/S_dalek.yy",},},

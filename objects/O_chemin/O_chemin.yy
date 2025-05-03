@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_chemin",
+    "path":"sprites/S_chemin/S_chemin.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
