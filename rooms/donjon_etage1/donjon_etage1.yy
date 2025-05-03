@@ -21,10 +21,13 @@
     {"name":"inst_5A78BA4C","path":"rooms/donjon_etage1/donjon_etage1.yy",},
     {"name":"inst_1045C928","path":"rooms/donjon_etage1/donjon_etage1.yy",},
     {"name":"inst_167CC5BB","path":"rooms/donjon_etage1/donjon_etage1.yy",},
+    {"name":"inst_2D78B809","path":"rooms/donjon_etage1/donjon_etage1.yy",},
   ],
   "isDnd":false,
   "layers":[
-    {"$GMRInstanceLayer":"","%Name":"minimapsObject","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"minimapsObject","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+    {"$GMRInstanceLayer":"","%Name":"minimapsObject","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v2","%Name":"inst_2D78B809","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2D78B809","objectId":{"name":"O_vaisseau","path":"objects/O_vaisseau/O_vaisseau.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":224.0,},
+      ],"layers":[],"name":"minimapsObject","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"ui","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_1045C928","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1045C928","objectId":{"name":"O_UI_boutonclasse","path":"objects/O_UI_boutonclasse/O_UI_boutonclasse.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_UI_boutonclasse","path":"objects/O_UI_boutonclasse/O_UI_boutonclasse.yy",},"propertyId":{"name":"script_to_execute","path":"objects/O_UI_boutonclasse/O_UI_boutonclasse.yy",},"resource":{"name":"Scr_donjon_etage2","path":"scripts/Scr_donjon_etage2/Scr_donjon_etage2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Scr_donjon_etage2",},
