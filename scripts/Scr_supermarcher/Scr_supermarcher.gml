@@ -7,6 +7,6 @@ function Scr_supermarcher() {	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
 	/// @DnDHash : 683C24A5
 	/// @DnDParent : 5F05E112
-	/// @DnDArgument : "room" "quartier_cool"
-	/// @DnDSaveInfo : "room" "quartier_cool"
-	room_goto(quartier_cool);}
+	/// @DnDArgument : "room" "supermarcher"
+	/// @DnDSaveInfo : "room" "supermarcher"
+	room_goto(supermarcher);}
