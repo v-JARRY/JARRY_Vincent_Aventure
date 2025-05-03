@@ -2,8 +2,8 @@
 /// @DnDVersion : 1
 /// @DnDHash : 7D4E17FA
 /// @DnDArgument : "expr" "true"
-/// @DnDArgument : "var" "dolhaveabottle"
-dolhaveabottle = true;
+/// @DnDArgument : "var" "dolhaveaargent"
+dolhaveaargent = true;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
