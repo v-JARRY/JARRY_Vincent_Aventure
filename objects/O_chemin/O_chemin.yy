@@ -34,5 +34,5 @@
     "path":"sprites/S_chemin/S_chemin.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

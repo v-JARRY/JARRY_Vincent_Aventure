@@ -21,6 +21,7 @@
     {"name":"inst_1B5B10B","path":"rooms/donjon_etage3_boss/donjon_etage3_boss.yy",},
     {"name":"inst_239EAB79","path":"rooms/donjon_etage3_boss/donjon_etage3_boss.yy",},
     {"name":"inst_3680429","path":"rooms/donjon_etage3_boss/donjon_etage3_boss.yy",},
+    {"name":"inst_51DAAFF7","path":"rooms/donjon_etage3_boss/donjon_etage3_boss.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -40,6 +41,7 @@
         {"$GMRInstance":"v2","%Name":"inst_1B5B10B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1B5B10B","objectId":{"name":"O_Collision","path":"objects/O_Collision/O_Collision.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":20.09375,"x":-27.0,"y":394.0,},
         {"$GMRInstance":"v2","%Name":"inst_239EAB79","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_239EAB79","objectId":{"name":"O_Collision","path":"objects/O_Collision/O_Collision.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":32.5,"scaleY":1.0,"x":686.0,"y":805.0,},
         {"$GMRInstance":"v2","%Name":"inst_3680429","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3680429","objectId":{"name":"O_Collision","path":"objects/O_Collision/O_Collision.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":32.5,"scaleY":1.0,"x":657.0,"y":246.0,},
+        {"$GMRInstance":"v2","%Name":"inst_51DAAFF7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_51DAAFF7","objectId":{"name":"O_UI_boutonclasse","path":"objects/O_UI_boutonclasse/O_UI_boutonclasse.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":256.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
