@@ -26,6 +26,7 @@
     {"name":"inst_1C09906","path":"rooms/donjon_etage2/donjon_etage2.yy",},
     {"name":"inst_784943F","path":"rooms/donjon_etage2/donjon_etage2.yy",},
     {"name":"inst_49432B68","path":"rooms/donjon_etage2/donjon_etage2.yy",},
+    {"name":"inst_7ED5ACDE","path":"rooms/donjon_etage2/donjon_etage2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -41,7 +42,8 @@
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":672.0,"y":256.0,},
       ],"layers":[],"name":"ui","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"perso","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v2","%Name":"inst_7999562B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7999562B","objectId":{"name":"O_vaisseau","path":"objects/O_vaisseau/O_vaisseau.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.1370968,"scaleY":1.233871,"x":15.0,"y":219.0,},
+        {"$GMRInstance":"v2","%Name":"inst_7999562B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7999562B","objectId":{"name":"O_vaisseau","path":"objects/O_vaisseau/O_vaisseau.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.1370968,"scaleY":1.233871,"x":82.0,"y":302.0,},
+        {"$GMRInstance":"v2","%Name":"inst_7ED5ACDE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7ED5ACDE","objectId":{"name":"O_life_manager","path":"objects/O_life_manager/O_life_manager.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":64.0,},
       ],"layers":[],"name":"perso","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"decord_donjon","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_734DB40E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_734DB40E","objectId":{"name":"Object63","path":"objects/Object63/Object63.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.8387096,"scaleY":3.580645,"x":0.0,"y":0.0,},
