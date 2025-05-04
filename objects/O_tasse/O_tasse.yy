@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_tasse",
+    "path":"sprites/S_tasse/S_tasse.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
