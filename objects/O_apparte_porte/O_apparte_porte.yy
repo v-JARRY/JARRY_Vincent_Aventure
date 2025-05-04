@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Object69",
+  "%Name":"O_apparte_porte",
   "eventList":[],
   "managed":true,
-  "name":"Object69",
+  "name":"O_apparte_porte",
   "overriddenProperties":[],
   "parent":{
-    "name":"décord_generaux",
-    "path":"folders/Objects/décord_generaux.yy",
+    "name":"décord_scène1",
+    "path":"folders/Objects/décord_generaux/décord_scène1.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite65",
-    "path":"sprites/Sprite65/Sprite65.yy",
+    "name":"S_imeuble_porte",
+    "path":"sprites/S_imeuble_porte/S_imeuble_porte.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object20",
+  "%Name":"O_supermarcher",
   "eventList":[],
   "managed":true,
-  "name":"Object20",
+  "name":"O_supermarcher",
   "overriddenProperties":[],
   "parent":{
     "name":"décord_scène 2",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_maison_moderne",
-    "path":"sprites/S_maison_moderne/S_maison_moderne.yy",
+    "name":"S_supermarcher",
+    "path":"sprites/S_supermarcher/S_supermarcher.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object68",
+  "%Name":"O_detective",
   "eventList":[],
   "managed":true,
-  "name":"Object68",
+  "name":"O_detective",
   "overriddenProperties":[],
   "parent":{
     "name":"décord_generaux",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite64",
-    "path":"sprites/Sprite64/Sprite64.yy",
+    "name":"S_agence",
+    "path":"sprites/S_agence/S_agence.yy",
   },
   "spriteMaskId":null,
   "visible":true,

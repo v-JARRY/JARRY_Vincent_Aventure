@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Object42",
+  "%Name":"O_caffe",
   "eventList":[],
   "managed":true,
-  "name":"Object42",
+  "name":"O_caffe",
   "overriddenProperties":[],
   "parent":{
-    "name":"décord_scène 2",
-    "path":"folders/Objects/décord_generaux/décord_scène 2.yy",
+    "name":"décord_scène1",
+    "path":"folders/Objects/décord_generaux/décord_scène1.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_supermarcher",
-    "path":"sprites/S_supermarcher/S_supermarcher.yy",
+    "name":"S_bar",
+    "path":"sprites/S_bar/S_bar.yy",
   },
   "spriteMaskId":null,
   "visible":true,

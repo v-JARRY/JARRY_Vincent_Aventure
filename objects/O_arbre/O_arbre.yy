@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object70",
+  "%Name":"O_arbre",
   "eventList":[],
   "managed":true,
-  "name":"Object70",
+  "name":"O_arbre",
   "overriddenProperties":[],
   "parent":{
     "name":"décord_generaux",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite66",
-    "path":"sprites/Sprite66/Sprite66.yy",
+    "name":"Sprite64",
+    "path":"sprites/Sprite64/Sprite64.yy",
   },
   "spriteMaskId":null,
   "visible":true,

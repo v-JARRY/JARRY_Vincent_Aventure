@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Object35",
+  "%Name":"O_distributeur",
   "eventList":[],
   "managed":true,
-  "name":"Object35",
+  "name":"O_distributeur",
   "overriddenProperties":[],
   "parent":{
-    "name":"décord_scène1",
-    "path":"folders/Objects/décord_generaux/décord_scène1.yy",
+    "name":"décord_generaux",
+    "path":"folders/Objects/décord_generaux.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_bar",
-    "path":"sprites/S_bar/S_bar.yy",
+    "name":"Sprite65",
+    "path":"sprites/Sprite65/Sprite65.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -22,6 +22,7 @@
     {"name":"inst_239EAB79","path":"rooms/donjon_etage3_boss/donjon_etage3_boss.yy",},
     {"name":"inst_3680429","path":"rooms/donjon_etage3_boss/donjon_etage3_boss.yy",},
     {"name":"inst_51DAAFF7","path":"rooms/donjon_etage3_boss/donjon_etage3_boss.yy",},
+    {"name":"inst_33D16C95","path":"rooms/donjon_etage3_boss/donjon_etage3_boss.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -46,6 +47,10 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_UI_boutonclasse","path":"objects/O_UI_boutonclasse/O_UI_boutonclasse.yy",},"propertyId":{"name":"script_to_execute","path":"objects/O_UI_boutonclasse/O_UI_boutonclasse.yy",},"resource":{"name":"Scr_donjon_debut","path":"scripts/Scr_donjon_debut/Scr_donjon_debut.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Scr_donjon_debut",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_UI_boutonclasse","path":"objects/O_UI_boutonclasse/O_UI_boutonclasse.yy",},"propertyId":{"name":"bouton_texte","path":"objects/O_UI_boutonclasse/O_UI_boutonclasse.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"fin",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":256.0,},
+        {"$GMRInstance":"v2","%Name":"inst_33D16C95","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_33D16C95","objectId":{"name":"O_UI_boutonclasse","path":"objects/O_UI_boutonclasse/O_UI_boutonclasse.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_UI_boutonclasse","path":"objects/O_UI_boutonclasse/O_UI_boutonclasse.yy",},"propertyId":{"name":"script_to_execute","path":"objects/O_UI_boutonclasse/O_UI_boutonclasse.yy",},"resource":{"name":"Scr_sortie","path":"scripts/Scr_sortie/Scr_sortie.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Scr_sortie",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_UI_boutonclasse","path":"objects/O_UI_boutonclasse/O_UI_boutonclasse.yy",},"propertyId":{"name":"bouton_texte","path":"objects/O_UI_boutonclasse/O_UI_boutonclasse.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"end",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1301.0,"y":215.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

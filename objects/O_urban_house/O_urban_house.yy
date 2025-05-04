@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Object36",
+  "%Name":"O_urban_house",
   "eventList":[],
   "managed":true,
-  "name":"Object36",
+  "name":"O_urban_house",
   "overriddenProperties":[],
   "parent":{
-    "name":"décord_scène1",
-    "path":"folders/Objects/décord_generaux/décord_scène1.yy",
+    "name":"décord_scène 2",
+    "path":"folders/Objects/décord_generaux/décord_scène 2.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_imeuble_porte",
-    "path":"sprites/S_imeuble_porte/S_imeuble_porte.yy",
+    "name":"S_maison_moderne",
+    "path":"sprites/S_maison_moderne/S_maison_moderne.yy",
   },
   "spriteMaskId":null,
   "visible":true,

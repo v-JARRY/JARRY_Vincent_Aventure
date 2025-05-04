@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Object37",
+  "%Name":"O_house",
   "eventList":[],
   "managed":true,
-  "name":"Object37",
+  "name":"O_house",
   "overriddenProperties":[],
   "parent":{
-    "name":"décord_scène1",
-    "path":"folders/Objects/décord_generaux/décord_scène1.yy",
+    "name":"décord_scène 2",
+    "path":"folders/Objects/décord_generaux/décord_scène 2.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_imeuble",
-    "path":"sprites/S_imeuble/S_imeuble.yy",
+    "name":"Smaison_banlieux",
+    "path":"sprites/Smaison_banlieux/Smaison_banlieux.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object21",
+  "%Name":"O_police_cars",
   "eventList":[],
   "managed":true,
-  "name":"Object21",
+  "name":"O_police_cars",
   "overriddenProperties":[],
   "parent":{
     "name":"décord_scène 2",

@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Object43",
+  "%Name":"O_magasin",
   "eventList":[],
   "managed":true,
-  "name":"Object43",
+  "name":"O_magasin",
   "overriddenProperties":[],
   "parent":{
-    "name":"décord_scène 2",
-    "path":"folders/Objects/décord_generaux/décord_scène 2.yy",
+    "name":"décord_scène1",
+    "path":"folders/Objects/décord_generaux/décord_scène1.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Smaison_banlieux",
-    "path":"sprites/Smaison_banlieux/Smaison_banlieux.yy",
+    "name":"S_boutique_louche",
+    "path":"sprites/S_boutique_louche/S_boutique_louche.yy",
   },
   "spriteMaskId":null,
   "visible":true,

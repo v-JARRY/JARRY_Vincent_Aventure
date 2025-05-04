@@ -35,6 +35,7 @@
     {"name":"inst_5F1F66CD","path":"rooms/Test_Room/Test_Room.yy",},
     {"name":"inst_57E3F1FE","path":"rooms/Test_Room/Test_Room.yy",},
     {"name":"inst_691A056F","path":"rooms/Test_Room/Test_Room.yy",},
+    {"name":"inst_4497718D","path":"rooms/Test_Room/Test_Room.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -60,6 +61,7 @@
         {"$GMRInstance":"v2","%Name":"inst_4558DE71","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4558DE71","objectId":{"name":"O_MiniMapManager","path":"objects/O_MiniMapManager/O_MiniMapManager.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":32.0,},
       ],"layers":[],"name":"manager","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v2","%Name":"inst_4497718D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4497718D","objectId":{"name":"O_sol","path":"objects/O_sol/O_sol.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":15.709677,"scaleY":26.5,"x":-32.0,"y":-544.0,},
         {"$GMRInstance":"v2","%Name":"inst_1368FA24","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1368FA24","objectId":{"name":"O_vaisseau","path":"objects/O_vaisseau/O_vaisseau.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":352.0,"y":448.0,},
         {"$GMRInstance":"v2","%Name":"inst_B0063B5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_B0063B5","objectId":{"name":"O_cannon","path":"objects/O_cannon/O_cannon.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":384.0,},
         {"$GMRInstance":"v2","%Name":"inst_4F3A7904","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4F3A7904","objectId":{"name":"O_pasgentil","path":"objects/O_pasgentil/O_pasgentil.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":800.0,"y":480.0,},

@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Object34",
+  "%Name":"O_lampadaire",
   "eventList":[],
   "managed":true,
-  "name":"Object34",
+  "name":"O_lampadaire",
   "overriddenProperties":[],
   "parent":{
-    "name":"décord_scène1",
-    "path":"folders/Objects/décord_generaux/décord_scène1.yy",
+    "name":"décord_generaux",
+    "path":"folders/Objects/décord_generaux.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_boutique_louche",
-    "path":"sprites/S_boutique_louche/S_boutique_louche.yy",
+    "name":"Sprite66",
+    "path":"sprites/Sprite66/Sprite66.yy",
   },
   "spriteMaskId":null,
   "visible":true,

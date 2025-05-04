@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Object33",
+  "%Name":"O_apparte",
   "eventList":[],
   "managed":true,
-  "name":"Object33",
+  "name":"O_apparte",
   "overriddenProperties":[],
   "parent":{
-    "name":"décord_generaux",
-    "path":"folders/Objects/décord_generaux.yy",
+    "name":"décord_scène1",
+    "path":"folders/Objects/décord_generaux/décord_scène1.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_agence",
-    "path":"sprites/S_agence/S_agence.yy",
+    "name":"S_imeuble",
+    "path":"sprites/S_imeuble/S_imeuble.yy",
   },
   "spriteMaskId":null,
   "visible":true,
