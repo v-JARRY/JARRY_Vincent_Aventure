@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"O_titre_jeu",
+  "%Name":"O_tasse",
   "eventList":[],
   "managed":true,
-  "name":"O_titre_jeu",
+  "name":"O_tasse",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"S_titre_jeu",
-    "path":"sprites/S_titre_jeu/S_titre_jeu.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
