@@ -29,3 +29,5 @@ passer la zone
 passer les différentes zone du donjon, arriver a zone de boss et fin.
 
 Faite bien attention a aller au bas des maps du café, du supermarcher et du rez de chausser du donjon, les boss ne fonctionne pas, c’est la même mécanique que les boulet noire mais je ne sais pas comment ils ont fonctionner.
+
+Accesoirement lejeu n'est pas fini car il commençais a être considérer comme trop lourd pour Game Maker sur mon pc, et aussi n'activer pas la map dans le niveau des ennemis, le code su professeur de programation ne fonctionnant pas ça fait crash le jeu, voila bonne balade.
