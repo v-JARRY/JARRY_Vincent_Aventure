@@ -18,7 +18,7 @@ Sortir du café
 
 aller voire le 3 ème taxi 
 
-vous vous rendez compte de la foule nombreuse et rentrer dans le magasin, un policier vous explique tout et vous demande d’aller mener des recherches dans un quartier abandonner.
+vous vous rendez compte de la foule nombreuse et rentrer dans le magasin, un policier vous dis de rentrer dans la suprette, un autre vous explique tout une fois dans la suprette et vous demande d’aller mener des recherches dans un quartier abandonner.
 
 Retourner au taxi
 
